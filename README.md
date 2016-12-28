@@ -2,7 +2,7 @@
 
 This little front-end project is prepared to learn the responsive feature of CSS3.
 
-No framework or library is used.
+No framework or library is used. It works really well in google chrome installed on a Fedora 24 machine.
 
 Things I learned:
 
